@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/chokutomoe10/GoSocial/compare/v1.0.0...v1.1.0) (2025-01-06)
+
+
+### Features
+
+* update api version automatically ([d6de9d2](https://github.com/chokutomoe10/GoSocial/commit/d6de9d2bbcee28c1c7c9b4f9634d4df7cb29859d))
+
 ## 1.0.0 (2025-01-06)
 
 
