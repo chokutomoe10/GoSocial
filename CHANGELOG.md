@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/chokutomoe10/GoSocial/compare/v1.1.0...v1.2.0) (2025-01-10)
+
+
+### Features
+
+* creating post ([ff19175](https://github.com/chokutomoe10/GoSocial/commit/ff1917543603aae2849831913f35447ba630611b))
+* dockerfile ([d67fbdb](https://github.com/chokutomoe10/GoSocial/commit/d67fbdbb941bbb9543b6df64671235c020272066))
+
 ## [1.1.0](https://github.com/chokutomoe10/GoSocial/compare/v1.0.0...v1.1.0) (2025-01-06)
 
 
