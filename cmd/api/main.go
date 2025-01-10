@@ -63,7 +63,7 @@ func main() {
 		auth: authConfig{
 			basic: basicConfig{
 				username: env.GetString("AUTH_BASIC_USERNAME", "admin"),
-				password: env.GetString("AUTH_BASIC_PASSWORD", "admin123"),
+				password: env.GetString("AUTH_BASIC_PASSWORD", "admin"),
 			},
 			token: tokenConfig{
 				secret: env.GetString("AUTH_TOKEN_SECRET", "example"),
